@@ -1,3 +1,10 @@
+/*
+
+This code reads a parquet file and prints its members using the "printGroup" class. 
+
+*/
+
+
 package hadoop.parquet.git;
 
 import java.io.IOException;
